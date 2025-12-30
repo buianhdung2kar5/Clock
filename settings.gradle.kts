@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Clock_Dung"
 include(":app")
- 
+include(":unitconverter")
